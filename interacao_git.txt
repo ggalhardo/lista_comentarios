@@ -1,0 +1,14 @@
+REALIZAR COMMIT COM GIT
+
+#git init -> inicia uma "comunicação" com o git no repositório local desejado
+
+#git add . -> adiciona todos os arquivos alterados para subir no commit
+#git add README.md -> adiciona um arquivo em específico. No caso, o arquivo especificado foi o README.md
+
+#git commit -m "comentário do commit" -> prepara o commit dos arquivos adicionados no comando anterior
+
+#git branch -M main -> adiciona o commit ao branch especificado, no caso é o main, mas pode ser um outro, como testes_commit por exemplo
+
+#git remote add origin https://github.com/ggalhardo/lista_comentarios -> adiciona o repositório remoto para adicionar o commit. Se faz necessário uma vez.
+
+#git push -u origin main -> envia o commit feito ao servidor, informando de qual branch (origin) é

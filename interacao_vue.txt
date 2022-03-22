@@ -1,0 +1,4 @@
+#npm install -g vue-cli -> instala o VUE globalmente na máquina
+
+#vue create nome_do_projeto -> cria um novo projeto VUE
+
